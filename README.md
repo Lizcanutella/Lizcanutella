@@ -1,6 +1,6 @@
 # Hey! I'm Mateo Lizcano
 
-I'm an incoming **Robotics** freshman @ NTU Singapore. (Class of 2029)
+I'm a **Robotics** freshman @ NTU Singapore. (Class of 2029)
 
 Self-taught Python, Java, C, and more through:
   - Harvard's CS50x Introduction to Computer Science
@@ -10,6 +10,11 @@ Self-taught Python, Java, C, and more through:
 Currently looking for ways to integrate neuroscience with machine learning!
 
 Projects I'm working on:
+```
+
+```
+
+Projects I'm done with:
 ```
   Chromatic Polynomial Calculator
 ```
