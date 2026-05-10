@@ -11,7 +11,8 @@ Currently looking for ways to integrate neuroscience with machine learning!
 
 Projects I'm working on:
 ```
-
+Queueing Theory in Pandemic Preparedness
+Steering Manifolds across Languages
 ```
 
 Projects I'm done with:
