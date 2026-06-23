@@ -1,24 +1,19 @@
 # Hey! I'm Mateo Lizcano
 
-I'm a **Robotics** freshman @ NTU Singapore. (Class of 2029)
+I'm a **Robotics** ~freshman~ sophomore @ NTU Singapore. (Class of 2029)
 
 Self-taught Python, Java, C, and more through:
   - Harvard's CS50x Introduction to Computer Science
   - MIT's 6.00.1x Introduction to Computer Science and Programming Using Python 
   - Purdue's CS180.1x-CS180.4x Java Programming
+  - Alignment Research Engineer Accelerator [(ARENA)](https://learn.arena.education)
 
 Currently looking for ways to integrate neuroscience with machine learning!
 
-Projects I'm working on:
-```
-Queueing Theory in Pandemic Preparedness
-Steering Manifolds across Languages
-```
-
-Projects I'm done with:
-```
-  Chromatic Polynomial Calculator
-```
+My projects:
+- [ ] Queueing Theory in Pandemic Preparedness
+- [ ] Steering Manifolds across Languages (work at [neil's fork](https://github.com/neilshah13/causalab))
+- [x] Chromatic Polynomial Calculator
 
 ## Let's connect! 
 <p>
