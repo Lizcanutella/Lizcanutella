@@ -1,6 +1,6 @@
 # Hey! I'm Mateo Lizcano
 
-I'm a **Robotics** ~freshman~ sophomore @ NTU Singapore. (Class of 2029)
+I'm a **Robotics** ~freshman~ sophomore @ NTU Singapore. 
 
 Self-taught Python, Java, C, and more through:
   - Harvard's CS50x Introduction to Computer Science
@@ -8,31 +8,16 @@ Self-taught Python, Java, C, and more through:
   - Purdue's CS180.1x-CS180.4x Java Programming
   - Alignment Research Engineer Accelerator [(ARENA)](https://learn.arena.education)
 
-Currently looking for ways to integrate neuroscience with machine learning!
+> Currently looking for ways to integrate neuroscience with machine learning!
+> 
+> ~ Me from one year ago
+
+Current me believes that scalable models will keep outperforming whichever biology-inspired architectures we develop; at least in the short run.
 
 My projects:
 - [ ] Queueing Theory in Pandemic Preparedness
 - [ ] Steering Manifolds across Languages (work at [neil's fork](https://github.com/neilshah13/causalab))
+- [ ] Adversarial patch attacs on Vision-Language-Action (VLA) models.
+- [ ] Learned Policy for Efficient Chromatic Polynomial Calculation (+ Chromatic Polynomial of the world!)
 - [x] Chromatic Polynomial Calculator
 
-## Let's connect! 
-<p>
-  <a style="text-decoration:none" href="https://www.linkedin.com/in/mateolizcano" rel="noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn Profile
-  </a> &nbsp;
-</p>
-
-<!--
-**Lizcanutella/Lizcanutella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
